@@ -150,7 +150,7 @@ defmodule Plausible.MixProject do
       {:simple_saml, "~> 1.2"},
       {:xml_builder, "~> 2.1"},
       {:siphash, "~> 3.2"},
-      {:timex, "~> 3.7"},
+      {:timex, "~> 4.0"},
       {:ua_inspector, "~> 3.12"},
       {:ex_doc, "~> 0.28", only: :dev, runtime: false},
       {:ex_money, "~> 5.24.2"},
